@@ -66,5 +66,5 @@ To play the game, you’ll need to install the **Minetest client** on your VM (i
 ---
 
 ## test versioning on doprax
-- v2.0
+- v1.0
 
